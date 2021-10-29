@@ -17,3 +17,5 @@ git config --global --get https.proxy
 git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
+
+!>  git的两种clone： http和ssh
