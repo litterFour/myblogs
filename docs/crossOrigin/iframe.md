@@ -10,3 +10,8 @@
 
 控制台：![logo](./images/error_iframe_npm.jpg ':size=WIDTHxHEIGHT')
 ![logo](./images/iframe_npm_response_headers.jpg ':size=WIDTHxHEIGHT')
+
+---
+参考文档：
+
+https://www.jb51.net/article/160474.htm

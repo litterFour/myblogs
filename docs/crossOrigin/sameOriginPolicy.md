@@ -21,3 +21,13 @@
 ----
 参考文档： <br/>
    https://en.wikipedia.org/wiki/Same-origin_policy
+   
+   https://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html
+   
+解决跨域：
+
+   https://www.cnblogs.com/softidea/p/7425894.html
+
+   https://www.imooc.com/article/291931
+
+   https://segmentfault.com/a/1190000011145364

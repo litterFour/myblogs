@@ -6,7 +6,9 @@ x-Frame-Options三个参数：
  * SAMEORIGIN：允许该页面可以在相同域名页面的frame中展示。
  * ALLOW-FROM url：允许在指定来源的frame中展示。
 
-
+#### 配置Etags
+https://www.cnblogs.com/visense/p/3203358.html
+ 
 
  ----
 参考文档： <br/>
