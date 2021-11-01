@@ -59,11 +59,15 @@
 
 - [<b>css预处理</b>](css/readme.md)
 
+- [<b>安全规范</b>](safe/index.md)
+
 - 图片
     - [矢量图和位图的区别](img/diff.md)
     - [svg](img/svg.md)
 
 - [<b>浏览器</b>](page/browser.md)
+
+- [<b>WEB</b>](web/index.md)
 
 - [<b>UI自动生成代码</b>](https://tech.meituan.com/2021/03/25/ui2dsl-dsl2code.html)
 

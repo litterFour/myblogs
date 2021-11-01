@@ -14,19 +14,14 @@ https://blog.csdn.net/gulang03/article/details/88210979
     304 Not Modified: 访问服务器，发现数据没有更新，服务器返回此状态码。然后从缓存中读取数据。
     三级缓存原理：
     1. 先去内存看，如果有，直接加载
-
     2. 如果内存没有，择取硬盘获取，如果有直接加载
-
     3. 如果硬盘也没有，那么就进行网络请求
-
     4. 加载到的资源缓存到硬盘和内存
-
     比如：访问图片-> 200 -> 退出浏览器
-
     再进来-> 200(from disk cache) -> 刷新 -> 200(from memory cache)
     CND 缓存
     http://kms.sf-express.com/KMS/learning/viewCourses_init.action?isManager=&coursesVo.id=246858&learnTaskId=
-    强缓存：不想服务器发请求。expires/http 1.0   cache-control/http 1.1
+    强缓存：不向服务器发请求。expires/http 1.0   cache-control/http 1.1
     协商缓存(304 not Modified)：向服务器发请求：[last-Modified，If-Modified-since] [ETag,If-None-Match]
     分布式系统里多台机器间的文件Last-Modified必须保持一致，以免负载均衡到不同机器导致比对失败；
     分布式系统尽量关掉Etag（每台机器生成的Etag都会不一样）
