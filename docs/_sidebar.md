@@ -13,6 +13,8 @@
 - 通信
     - [单页面VS多页面应用](communication/pagetype.md)
     - [socket、webSocket、http的区别](communication/socket.md)
+    - [OAuth - 用户认证鉴权](communication/oauth.md)
+    - [session、token、cookie、JWT的区别](communication/storage.md)
     - [http / https](communication/readme.md)
         - [https](communication/https.md)
         - [response headers](communication/header.md)
@@ -42,7 +44,7 @@
     - [项目创建配置](vue/init.md)
     - [插件和preset](vue/preset.md)
     - [编程风格](vue/codeStyle.md)
-    - [路由(hash & history)](https://next.router.vuejs.org/zh/guide/advanced/dynamic-routing.html#%E6%B7%BB%E5%8A%A0%E8%B7%AF%E7%94%B1)
+    - [路由(hash & history)](vue/route.md)
 
 - [<b>react</b>](react/index.md)
     - [umiJS](https://umijs.org/zh-CN)

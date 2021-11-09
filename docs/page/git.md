@@ -54,4 +54,12 @@ git config --global --unset https.proxy
 
 #### git add -A 和 git add . 的区别
 
+#### git status
+  查看有没有文件被修改过
+
+#### git diff
+  查看修改的内容
+  
+---
+
 https://www.cnblogs.com/skura23/p/5859243.html
