@@ -77,8 +77,11 @@
 
 - [<b>专有名词</b>](page/noun.md)
 
--[<b> 技术站收藏</b>](page/link.md)
+- [<b> 技术站收藏</b>](page/link.md)
 
 - [<b>面试</b>](page/job.md)
 
+- [<b>专有名词</b>](page/noun.md)
+
+- 负载均衡 和 CND
 - [<span style="font-weight:normal">------------------- 联系我 ------------------</span>](page/connect.md)
