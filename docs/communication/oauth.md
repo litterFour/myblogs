@@ -15,3 +15,5 @@ http://fairysoftware.com/token_session_cookie.html
 https://www.jianshu.com/p/43c3003ac957
 
 https://www.cnblogs.com/moyand/p/9047978.html
+
+https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Cookies
