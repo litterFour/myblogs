@@ -33,3 +33,9 @@
 10、堡垒机、防火墙
 
 11、鉴权
+
+12、正向代理、 反向代理 ：https://www.cnblogs.com/taostaryu/p/10547132.html
+
+13、双活与容灾；应用双活与数据双活 https://zhidao.baidu.com/question/695732264695855604.html
+
+14、“集群”！ 和 “分布式”！ ： https://www.zhihu.com/question/20004877

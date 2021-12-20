@@ -1,4 +1,5 @@
 - [<b style="color:red">今天</b>](homework.md)
+- [<b style="color:red">项目</b>](project.md)
 - [<b>markdown语法</b>](README.md)
 - [<b>开发规范</b>](page/codeRule.md)
 
@@ -55,7 +56,7 @@
 
 -  [<b>nvm</b>](page/nvm.md)
 
--  [<b> Nginx</b>](https://www.nginx.cn/doc/)
+-  [<b> Nginx</b>](page/nginx.md)
 
 - [<b>git</b>](page/git.md)
 
@@ -82,6 +83,10 @@
 - [<b>面试</b>](page/job.md)
 
 - [<b>专有名词</b>](page/noun.md)
+- [<b>docker</b>](page/docker.md)
 
 - 负载均衡 和 CND
+- [<b>高并发</b>](page/bingfa.md)
+- [<b>DDNS</b>](https://baike.baidu.com/item/ddns/670146?fr=aladdin)
+- [<b>问什么个人需要公网IP</b>](https://www.zhihu.com/question/372676651)
 - [<span style="font-weight:normal">------------------- 联系我 ------------------</span>](page/connect.md)
