@@ -1,6 +1,6 @@
 - [<b style="color:red">今天</b>](homework.md)
 - [<b style="color:red">项目</b>](project.md)
-- [<b>markdown语法</b>](README.md)
+- [<b>markdown语法</b>](page/markdown.md)
 - [<b>开发规范</b>](page/codeRule.md)
 
 - [<b>系统环境变量</b>](page/config.md)
@@ -88,5 +88,5 @@
 - 负载均衡 和 CND
 - [<b>高并发</b>](page/bingfa.md)
 - [<b>DDNS</b>](https://baike.baidu.com/item/ddns/670146?fr=aladdin)
-- [<b>问什么个人需要公网IP</b>](https://www.zhihu.com/question/372676651)
+- [<b>为什么个人需要公网ip</b>](https://www.zhihu.com/question/372676651)
 - [<span style="font-weight:normal">------------------- 联系我 ------------------</span>](page/connect.md)

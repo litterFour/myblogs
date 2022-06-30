@@ -1,21 +1,65 @@
-##### markdown语法
-  https://www.cnblogs.com/happyone/p/12152566.html
-> con
+* [<b>开发规范</b>](page/codeRule.md)
+* [<b>系统环境变量</b>](page/config.md)
+* [<b>同源策略</b>](crossOrigin/sameOriginPolicy.md)
+    * [Fetch](crossOrigin/fetch.md)
+    * [CORS](crossOrigin/cors.md)
+    * [JsonP](crossOrigin/jsonp.md)
+    * [iframe跨域](crossOrigin/iframe.md)  
+* [<b>通信</b>]()
+    * [单页面VS多页面应用](communication/pagetype.md)
+    * [socket、webSocket、http的区别](communication/socket.md)
+    * [OAuth * 用户认证鉴权](communication/oauth.md)
+    * [session、token、cookie、JWT的区别](communication/storage.md)
+    * [http / https](communication/readme.md)
+        * [https](communication/https.md)
+        * [response headers](communication/header.md)
+        * [Reffer * Referrer Policy](communication/referrer.md)
+        * [strict*origin*when*cross*origin](communication/strictOrigin.md)
+    * [socket](communication/socket.md)
+    * [axios](communication/axios.md)
+    * [前端代理 * tunnel](https://www.npmjs.com/package/tunnel)
+* [<b>存储</b>](page/storage.md)
+* [<b>Javascript</b>](javascript/index.md)
+    * [parse * stringify](javascript/readme.md)
+    * [垃圾回收](javascript/recycle.md)
+* [<b>ECMAScript 6</b>](EcmaScript6/readme.md)
+    * [module](EcmaScript6/module.md)
+    * [class](EcmaScript6/class.md)
+* [<b>TypeScript</b>](https://typescript.bootcss.com/classes.html)
+* [<b>微前端</b>](microApp/index.md)
+    * [qiankun](https://qiankun.umijs.org/zh/guide)
+* [<b>vue</b>](vue/index.md)
+    * [项目创建配置](vue/init.md)
+    * [插件和preset](vue/preset.md)
+    * [编程风格](vue/codeStyle.md)
+    * [路由(hash & history)](vue/route.md)
+* [<b>react</b>](react/index.md)
+    * [umiJS](https://umijs.org/zh*CN)
+* [<b>算法</b>](page/npm.md)
+*  [<b>npm</b>](page/npm.md)
+*  [<b>nvm</b>](page/nvm.md)
+*  [<b> Nginx</b>](page/nginx.md)
+* [<b>git</b>](page/git.md)
+* [<b>css预处理</b>](css/readme.md)
+* [<b>安全规范</b>](safe/index.md)
+* [<b>图片</b>]()
+    * [矢量图和位图的区别](img/diff.md)
+    * [svg](img/svg.md)
+* [<b>浏览器</b>](page/browser.md)
+* [<b>WEB</b>](web/index.md)
+* [<b>UI自动生成代码</b>](https://tech.meituan.com/2021/03/25/ui2dsl*dsl2code.html)
+* [<b>桌面应用</b>](https://www.electronjs.org/)
+* [<b>专有名词</b>](page/noun.md)
+* [<b> 技术站收藏</b>](page/link.md)
+* [<b>面试</b>](page/job.md)
+* [<b>专有名词</b>](page/noun.md)
+* [<b>docker</b>](page/docker.md)
+* [<b>负载均衡 和 CND</b>]()
+* [<b>高并发</b>](page/bingfa.md)
+* [<b>DDNS</b>](https://baike.baidu.com/item/ddns/670146?fr=aladdin)
+* [<b>为什么个人需要公网ip</b>](https://www.zhihu.com/question/372676651)
+* [<span style="font*weight:normal">******************* 联系我 ******************</span>](page/connect.md)
 
-!>  con
-
-?> con
-
-- [ ] foo
-- bar
-- [x] baz
-- [] bam <~ not working
-  - [ ] bim
-  - [ ] lim
-
-  <details>
-        <summary>自我评价（点击展开）</summary>
-
-        - Abc
-        - Abc
-</details>
+<script>
+    require("HOMEWORK.md")
+</script>
